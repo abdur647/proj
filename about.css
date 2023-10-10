@@ -1,0 +1,11 @@
+/* styles.css */
+:root {
+    --primary-color: #3297F0;
+    --secondary-color: #5DD9EF;
+    /* Add more color variables as needed */
+}
+
+/* Use the color variables in your styles */
+body {
+    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+}

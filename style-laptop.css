@@ -1,0 +1,17 @@
+/* styles-laptop.css */
+@media (min-width: 1025px) {
+    body {
+        background: linear-gradient(45deg, #9b59b6, #3498db);
+    }
+
+    /* Example styles for laptops */
+    header {
+        background-color: #9b59b6;
+    }
+
+    section {
+        background-color: #3498db;
+        color: #fff;
+        padding: 30px;
+    }
+}
